@@ -1,0 +1,7 @@
+admin_sys	123456	Quản trị viên	
+D62619084576898789	123	Khách hàng	TH3
+D00859082305666432	123	Khách hàng	
+ql_resort	123456	Quản lý	
+tt_hcm	123456	Tiếp tân	
+tt_hn	123456	Tiếp tân	
+tt_resort	123456	Tiếp tân	

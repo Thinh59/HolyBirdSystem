@@ -1,0 +1,21 @@
+﻿USE HolyBird
+GO
+
+-- T2: Quản lý cập nhật giá PPS
+CREATE OR ALTER PROCEDURE sp_TH2_T2_CapNhatGiaPPS
+    @MaPPS NVARCHAR(10),
+    @GiaPhiMoi DECIMAL(18,2)
+AS
+BEGIN
+    BEGIN TRAN
+    BEGIN TRY
+        UPDATE PHIPHATSINH SET GiaPhi = @GiaPhiMoi WHERE MaPPS = @MaPPS;
+        COMMIT TRAN
+        RETURN 1
+    END TRY
+    BEGIN CATCH
+        ROLLBACK TRAN
+        RETURN 0
+    END CATCH
+END
+GO

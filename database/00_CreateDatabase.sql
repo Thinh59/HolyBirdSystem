@@ -1,0 +1,4 @@
+CREATE DATABASE HolyBird
+GO
+
+--DROP DATABASE HolyBird

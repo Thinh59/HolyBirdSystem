@@ -1,0 +1,39 @@
+(A) Nhóm bảng gốc – không phụ thuộc
+
+DAILY
+
+TAIKHOAN
+
+LOAIPHONG
+
+PHIPHATSINH
+
+(B) Nhóm bảng phụ thuộc mức 1
+
+KHACHHANG
+(FK → TAIKHOAN)
+
+NHANVIEN
+(FK → DAILY, TAIKHOAN)
+
+PHONG
+(FK → LOAIPHONG)
+
+(C) Nhóm bảng giao dịch mức 2
+
+GIAODICH
+(FK → NHANVIEN, DAILY, KHACHHANG)
+
+CT_GIAODICH
+(FK → GIAODICH, KHACHHANG, PHONG)
+
+THETU
+(FK → CT_GIAODICH)
+
+HOADON
+(FK → GIAODICH, NHANVIEN)
+
+(D) Nhóm phát sinh – mức cuối
+
+CT_PHIPS
+(FK → CT_GIAODICH, PHIPHATSINH)

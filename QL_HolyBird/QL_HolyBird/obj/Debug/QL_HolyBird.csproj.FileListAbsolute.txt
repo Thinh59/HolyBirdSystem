@@ -1,0 +1,94 @@
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\bin\Debug\QL_HolyBird.exe.config
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\bin\Debug\QL_HolyBird.exe
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\bin\Debug\QL_HolyBird.pdb
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.ALL_ThongTinChiTiet.resources
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.Properties.Resources.resources
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.QL_main.resources
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan_main.resources
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.exe
+C:\Users\Admin\source\repos\HBSystem\QL_HolyBird\obj\Debug\QL_HolyBird.pdb
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.exe.config
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.exe
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.pdb
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.AssemblyReference.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.ALL_ChinhSuaTaiKhoan.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Common.ALL_DanhSachTrangThaiPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Common.ALL_Login.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_ALL_ThongTinChiTiet.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Properties.Resources.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSNV.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_KHGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_QLPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_QLPPS.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QTV_Dashboard.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_CauHinhHeThong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_NhatKyHeThong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_PhanQuyen.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_QuanLyTaiKhoan.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_SaoLuuDuLieu.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QuanTriVien.UC_con.UC_QTV_ChiTietPhanQuyen.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TT_DK_GiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_CapNhatGiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT6_LapHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_CapTheTu.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_KichHoatGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT_KTPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_TaoTKKH.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_XemHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT_XNTraPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TruongDoan.TD_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_DatPhongChoTV.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_QuanLyGiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_ThanhToanHoaDon.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.GenerateResource.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.CoreCompileInputs.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.exe
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.pdb
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.exe.config
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.exe
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\bin\Debug\QL_HolyBird.pdb
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.AssemblyReference.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.ALL_ChinhSuaTaiKhoan.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Common.ALL_DanhSachTrangThaiPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Common.ALL_Login.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_ALL_ThongTinChiTiet.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Properties.Resources.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_DSNV.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_KHGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_QLPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QL_QLPPS.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QTV_Dashboard.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_CauHinhHeThong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_NhatKyHeThong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_PhanQuyen.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_QuanLyTaiKhoan.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.UC_QTV_SaoLuuDuLieu.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.QuanTriVien.UC_con.UC_QTV_ChiTietPhanQuyen.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TT_DK_GiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_CapNhatGiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT6_LapHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_CapTheTu.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_KichHoatGD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT_KTPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_TaoTKKH.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TiepTan.Usc_TT_XemHD.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TT_XNTraPhong.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.TruongDoan.TD_main.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_DatPhongChoTV.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_QuanLyGiaoDich.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.Usc_TD_ThanhToanHoaDon.resources
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.GenerateResource.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.csproj.CoreCompileInputs.cache
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.exe
+D:\NA\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\LT\FinalProject\Code\HolyBird\QL_HolyBird\QL_HolyBird\obj\Debug\QL_HolyBird.pdb

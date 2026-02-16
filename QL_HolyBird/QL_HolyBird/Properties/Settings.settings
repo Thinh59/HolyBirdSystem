@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QL_HolyBird.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DinhDangNgay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dd/MM/yyyy</Value>
+    </Setting>
+    <Setting Name="DonViTienTe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VND</Value>
+    </Setting>
+    <Setting Name="NgonNgu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tiếng Việt</Value>
+    </Setting>
+    <Setting Name="ThueVAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="GioCheckIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14:00</Value>
+    </Setting>
+    <Setting Name="GioCheckOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12:00</Value>
+    </Setting>
+    <Setting Name="TiGiaUSD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

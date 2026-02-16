@@ -1,0 +1,79 @@
+﻿USE HolyBird
+GO
+
+SELECT * FROM DAILY
+
+SELECT * FROM TAIKHOAN
+
+SELECT* FROM PHONG
+
+SELECT * FROM LOAIPHONG
+
+SELECT * FROM PHIPHATSINH
+
+SELECT * FROM KHACHHANG
+
+SELECT * FROM NHANVIEN
+
+SELECT * FROM PHONG
+
+SELECT * FROM GIAODICH
+
+SELECT * FROM CT_GIAODICH
+WHERE MaDoan = 'D15759'
+
+SELECT * FROM CT_GIAODICH
+WHERE MaDoan = 'D62619'
+
+update CT_GIAODICH
+set TrangThaiGD = N'Chờ thanh toán'
+where MaCTGD = 'CTC9645DCC'
+
+SELECT * FROM THETU
+
+SELECT * FROM HOADON
+
+SELECT * FROM CT_PHIPS
+
+---ALL01:
+-- Input giả định: @user = 'admin', @pass = '123456'
+SELECT * FROM TAIKHOAN 
+WHERE TenDangNhap = 'admin' AND MatKhau = '123456';
+
+---ALL03:
+-- Nếu là Nhân viên
+SELECT NV.*, TK.LoaiTaiKhoan 
+FROM NHANVIEN NV
+JOIN TAIKHOAN TK ON NV.MaNV = TK.TenDangNhap -- (Hoặc join qua cột Username tùy thiết kế)
+WHERE NV.MaNV = 'NV01'; 
+
+-- Nếu là Khách hàng
+SELECT KH.*, TK.LoaiTaiKhoan 
+FROM KHACHHANG KH
+JOIN TAIKHOAN TK ON KH.TenDangNhap = TK.TenDangNhap
+WHERE KH.TenDangNhap = 'kh_nguyena';
+
+---ALL05:
+SELECT 
+    P.MaPhong, 
+    P.Tang, 
+    P.TrangThai, 
+    LP.TenLoaiPhong, 
+    LP.SoGiuong, 
+    LP.DonGiaPhong
+FROM PHONG P
+JOIN LOAIPHONG LP ON P.MaLoaiPhong = LP.MaLoaiPhong
+ORDER BY P.Tang, P.MaPhong;
+
+SELECT TenDangNhap FROM GIAODICH WHERE MaDoan = 'D0000'
+
+DELETE FROM HOADON
+WHERE MaHD = 'HD5832';
+
+UPDATE CT_GIAODICH
+SET TrangThaiGD = N'Chờ lập hóa đơn'
+WHERE MaCTGD = 'CT_DIRTY'
+
+UPDATE HOADON
+SET NgayLap = '2030-01-30'
+WHERE MaHD = 'HD4426'
