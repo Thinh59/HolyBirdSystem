@@ -39,4 +39,3 @@ Hệ thống đã cài đặt và xử lý thành công 10 tình huống tranh c
 
 ## 🔗 Tài nguyên
 * [Video Demo](https://drive.google.com/drive/folders/1nohAJC9tyxan08zWeC0kav0l_ZqPKtg4?usp=sharing) 
-* [Source Code Database](https://drive.google.com/drive/folders/1Sp3vv6SlzyrILzxx1GlvtlwVjv5bWDWi?usp=sharing)
