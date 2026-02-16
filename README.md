@@ -38,5 +38,5 @@ Hệ thống đã cài đặt và xử lý thành công 10 tình huống tranh c
 * **Admin:** Phân quyền, Nhật ký hệ thống, Sao lưu & Phục hồi
 
 ## 🔗 Tài nguyên
-* [Video Demo]([https://drive.google.com/drive/folders/1nohAJC9tyxan08zWeC0kav0l_ZqPKtg4?usp=sharing]) 
-* [Source Code Database]([https://drive.google.com/drive/folders/1Sp3vv6SlzyrlLzxx1GlvtlwVjv5bWDWi])
+* [Video Demo](https://drive.google.com/drive/folders/1nohAJC9tyxan08zWeC0kav0l_ZqPKtg4?usp=sharing) 
+* [Source Code Database](https://drive.google.com/drive/folders/1Sp3vv6SlzyrlLzxx1GlvtlwVjv5bWDWi)
